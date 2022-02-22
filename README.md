@@ -4,8 +4,8 @@
 
 ### Let's connect!
 
-[<center><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=flat&logo=gmail&logoColor=white">][email]
-[<center><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=flat&logo=linkedin&logoColor=white" />][linkedin]
+[<p align="center"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=flat&logo=gmail&logoColor=white"></p>][email]
+[<p align="center"><center><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=flat&logo=linkedin&logoColor=white" /></p>][linkedin]
 
 <br />
 <hr />
