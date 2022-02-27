@@ -1,6 +1,6 @@
 # <img src="Github.png">
 
-Currently working on my final project 👩🏾‍💻
+<center>Currently working on my final project 👩🏾‍💻
 
 ### 🗜 Cloud
 
@@ -42,3 +42,5 @@ Currently working on my final project 👩🏾‍💻
 
 [email]: mailto:marcelindiana@yahoo.com/
 [linkedin]: https://www.linkedin.com/in/diana-marcelin95
+
+</center>
