@@ -1,4 +1,4 @@
-# Hi 👋🏾 I'm Diana, a Software Engineer.
+# <img src="Github.png">
 
 Currently working on my final project 👩🏾‍💻
 
