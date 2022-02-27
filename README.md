@@ -1,6 +1,6 @@
  <img src="Github.png">
 
-<h1 align= "center">Currently working on my final project 💻/h1>
+<h1 align= "center">Currently working on my final project 💻</h1>
 
 <h2 align= "center"> 
 🗜 Cloud
