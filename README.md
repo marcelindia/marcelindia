@@ -1,4 +1,4 @@
-# <img src="Github.png">
+ <img src="Github.png">
 
 <h1 align= "center">Currently working on my final project 👩🏾‍💻 </h1>
 
