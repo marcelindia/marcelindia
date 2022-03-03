@@ -22,6 +22,7 @@
 🗜 Databases
 
 ![MONGO](https://img.shields.io/badge/-MONGODB-333333?style=flat&logo=mongodb)
+ ![Firebase](http://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 
 </h4>
 
